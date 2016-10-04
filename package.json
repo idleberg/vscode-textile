@@ -2,7 +2,7 @@
     "name": "textile",
     "displayName": "Textile",
     "description": "Syntax highlighting and snippets for the Textile markup language",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
