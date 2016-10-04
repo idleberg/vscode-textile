@@ -7,6 +7,40 @@
 
 Syntax highlighting and snippets for the [Textile](https://txstyle.org/) markup language, based on the [Textmate bundle](https://github.com/textmate/textile.tmbundle/blob/master/README.mdown)
 
+## Installation
+
+### Extension Marketplace
+
+Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
+
+`ext install textile`
+
+### Packaged Extension
+
+Download the package extension from the the [release page](https://github.com/idleberg/vscode-textile/releases) and install it from the command-line:
+
+```bash
+$ code --install-extension textile.vsix
+```
+
+### Clone Repository
+
+Change to your Visual Studio Code extensions directory:
+
+```bash
+# Windows
+$ cd %USERPROFILE%\.vscode\extensions
+
+# Linux & macOS
+$ cd ~/.vscode/extensions/
+```
+
+Clone repository as `textile`:
+
+```bash
+$ git clone https://github.com/idleberg/vscode-textile textile
+```
+
 ## License
 
 If not otherwise specified (see below), files in this repository fall under the following license:
