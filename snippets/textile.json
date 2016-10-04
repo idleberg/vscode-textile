@@ -1,0 +1,42 @@
+{
+  "Acronym": {
+    "body": "${1:ABC}(${2:Always Be Closing})",
+    "prefix": "acr"
+  },
+  "Block Quote": {
+    "body": "bq. ${1:A quote...}\n\n$0",
+    "prefix": "bq"
+  },
+  "Heading 1": {
+    "body": "h1. ${1:Text...}\n\n$0",
+    "prefix": "h1"
+  },
+  "Heading 2": {
+    "body": "h2. ${1:Text...}\n\n$0",
+    "prefix": "h2"
+  },
+  "Heading 3": {
+    "body": "h3. ${1:Text...}\n\n$0",
+    "prefix": "h3"
+  },
+  "Heading 4": {
+    "body": "h4. ${1:Text...}\n\n$0",
+    "prefix": "h4"
+  },
+  "Heading 5": {
+    "body": "h5. ${1:Text...}\n\n$0",
+    "prefix": "h5"
+  },
+  "Heading 6": {
+    "body": "h6. ${1:Text...}\n\n$0",
+    "prefix": "h6"
+  },
+  "Image": {
+    "body": "!${1:http://site.com/image}(${2:Title})!",
+    "prefix": "img"
+  },
+  "Linked Image": {
+    "body": "!${1:http://site.com/image}(${2:Title})!:${3:http://linkedsite.com}",
+    "prefix": "linkimg"
+  }
+}
