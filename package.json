@@ -1,76 +1,76 @@
 {
-    "name": "textile",
-    "displayName": "Textile",
-    "description": "Syntax highlighting and snippets for the Textile markup language",
-    "version": "0.1.0",
-    "publisher": "idleberg",
-    "license": "MIT",
-    "author": {
-        "name": "Jan T. Sott",
-        "url": "http://github.com/idleberg"
-    },
-    "keywords": [
-        "textile"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-textile.git"
-    },
-    "homepage": "https://github.com/idleberg/vscode-textile",
-    "bugs": {
-        "url": "https://github.com/idleberg/vscode-textile/issues"
-    },
-    "icon": "images/logo.svg",
-    "galleryBanner": {
-        "color": "#ffeab6"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Languages",
-        "Snippets"
-    ],
-    "contributes": {
-        "languages": [
-            {
-                "id": "textile",
-                "aliases": [
-                    "Textile",
-                    "textile"
-                ],
-                "extensions": [
-                    ".textile"
-                ],
-                "configuration": "./textile.configuration.json"
-            }
+  "name": "textile",
+  "displayName": "Textile",
+  "description": "Syntax highlighting and snippets for the Textile markup language",
+  "version": "0.1.0",
+  "publisher": "idleberg",
+  "license": "MIT",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "textile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idleberg/vscode-textile.git"
+  },
+  "homepage": "https://github.com/idleberg/vscode-textile",
+  "bugs": {
+    "url": "https://github.com/idleberg/vscode-textile/issues"
+  },
+  "icon": "images/logo.svg",
+  "galleryBanner": {
+    "color": "#ffeab6"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Languages",
+    "Snippets"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "textile",
+        "aliases": [
+          "Textile",
+          "textile"
         ],
-        "grammars": [
-            {
-                "language": "textile",
-                "scopeName": "text.html.textile",
-                "path": "./syntaxes/Textile.tmLanguage"
-            }
+        "extensions": [
+          ".textile"
         ],
-        "snippets": [
-            {
-                "language": "textile",
-                "path": "./snippets/textile.json"
-            }
-        ]
-    },
-    "scripts": {
-        "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "gulp lint"
-    },
-    "devDependencies": {
-        "babel-eslint": "^7.0.0",
-        "eslint": "^3.7.0",
-        "gulp": "^3.9.1",
-        "gulp-debug": "^2.1.2",
-        "gulp-eslint": "^3.0.1",
-        "gulp-jsonlint": "^1.1.2",
-        "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.0"
-    }
+        "configuration": "./textile.configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "textile",
+        "scopeName": "text.html.textile",
+        "path": "./syntaxes/Textile.tmLanguage"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "textile",
+        "path": "./snippets/textile.json"
+      }
+    ]
+  },
+  "scripts": {
+    "postinstall": "node ./node_modules/vscode/bin/install",
+    "test": "gulp lint"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.9.1",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-jsonlint": "^1.1.2",
+    "gulp-xml-validator": "^0.1.2",
+    "vscode": "^1.0.3"
+  }
 }
