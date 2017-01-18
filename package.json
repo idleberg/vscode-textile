@@ -64,12 +64,12 @@
     "test": "gulp lint"
   },
   "devDependencies": {
-    "babel-eslint": "^7.1.0",
-    "eslint": "^3.9.1",
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.13.1",
     "gulp": "^3.9.1",
     "gulp-debug": "^3.0.0",
     "gulp-eslint": "^3.0.1",
-    "gulp-jsonlint": "^1.1.2",
+    "gulp-jsonlint": "^1.2.0",
     "gulp-xml-validator": "^0.1.2",
     "vscode": "^1.0.3"
   }
