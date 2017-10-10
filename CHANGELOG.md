@@ -1,3 +1,8 @@
+# v0.1.3 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.3)
+
+- update development toolchain
+- update Travis CI configuration
+
 # v0.1.2 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.2)
 
 - use PNG logo (as required by upcoming versions of Code)
