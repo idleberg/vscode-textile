@@ -1,3 +1,8 @@
+# v0.1.4 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.4)
+
+- replace linter
+- update dependencies
+
 # v0.1.3 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.3)
 
 - update development toolchain
