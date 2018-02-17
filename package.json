@@ -14,9 +14,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-textile.git"
+        "url": "https://github.com/idleberg/vscode-textile"
     },
-    "homepage": "https://github.com/idleberg/vscode-textile",
+    "homepage": "https://github.com/idleberg/vscode-textile#readme",
     "bugs": {
         "url": "https://github.com/idleberg/vscode-textile/issues"
     },
