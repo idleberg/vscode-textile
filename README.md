@@ -2,7 +2,7 @@
 
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-textile)](https://github.com/idleberg/vscode-textile/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.textile)](https://marketplace.visualstudio.com/items?itemName=idleberg.textile)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.textile.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.textile)
 [![Travis](https://flat.badgen.net/travis/idleberg/vscode-textile)](https://travis-ci.org/idleberg/vscode-textile)
 [![David](https://flat.badgen.net/david/dev/idleberg/vscode-textile)](https://david-dm.org/idleberg/vscode-textile?type=dev)
 
