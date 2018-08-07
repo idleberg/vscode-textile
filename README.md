@@ -1,10 +1,10 @@
 # vscode-textile
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/idleberg/vscode-textile.svg?style=flat-square)](https://github.com/idleberg/vscode-textile/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.textile.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.textile)
-[![Travis](https://img.shields.io/travis/idleberg/vscode-textile.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-textile)
-[![David](https://img.shields.io/david/dev/idleberg/vscode-textile.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-textile?type=dev)
+[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
+[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-textile)](https://github.com/idleberg/vscode-textile/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.textile)](https://marketplace.visualstudio.com/items?itemName=idleberg.textile)
+[![Travis](https://flat.badgen.net/travis/idleberg/vscode-textile)](https://travis-ci.org/idleberg/vscode-textile)
+[![David](https://flat.badgen.net/david/dev/idleberg/vscode-textile)](https://david-dm.org/idleberg/vscode-textile?type=dev)
 
 Syntax highlighting and snippets for the [Textile](https://txstyle.org/) markup language, based on the [Textmate bundle](https://github.com/textmate/textile.tmbundle/blob/master/README.mdown)
 
