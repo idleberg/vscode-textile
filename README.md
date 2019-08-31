@@ -6,7 +6,7 @@
 [![Travis](https://flat.badgen.net/travis/idleberg/vscode-textile)](https://travis-ci.org/idleberg/vscode-textile)
 [![David](https://flat.badgen.net/david/dev/idleberg/vscode-textile)](https://david-dm.org/idleberg/vscode-textile?type=dev)
 
-Syntax highlighting and snippets for the [Textile](https://txstyle.org/) markup language, based on the [Textmate bundle](https://github.com/textmate/textile.tmbundle/blob/master/README.mdown)
+Syntax highlighting and snippets for the [Textile](https://textile-lang.com/) markup language, based on the [Textmate bundle](https://github.com/textmate/textile.tmbundle/blob/master/README.mdown)
 
 ## Installation
 
