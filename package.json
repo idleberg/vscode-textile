@@ -28,7 +28,8 @@
     },
     "icon": "images/logo.png",
     "galleryBanner": {
-        "color": "#ffeab6"
+        "color": "#555555",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.0.0"
