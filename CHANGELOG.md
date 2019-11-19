@@ -1,3 +1,8 @@
+# v0.1.5 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.5)
+
+- update logo
+- update dependencies
+
 # v0.1.4 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.4)
 
 - replace linter
