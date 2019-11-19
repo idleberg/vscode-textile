@@ -1,4 +1,4 @@
-# v0.1.5 [#](https://github.com/idleberg/vscode-textile/releases/tag/0.1.5)
+# v0.1.5 [#](https://github.com/idleberg/vscode-textile/releases/tag/v0.1.5)
 
 - update logo
 - update dependencies
