@@ -1,6 +1,7 @@
 # v0.2.0 [#](https://github.com/idleberg/vscode-textile/releases/tag/v0.2.0)
 
 - add support for surrounding pairs
+- move config file
 - update dependencies
 
 # v0.1.5 [#](https://github.com/idleberg/vscode-textile/releases/tag/v0.1.5)
