@@ -49,7 +49,7 @@
                 "extensions": [
                     ".textile"
                 ],
-                "configuration": "./textile.configuration.json"
+                "configuration": "./config/textile.json"
             }
         ],
         "grammars": [
