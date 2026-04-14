@@ -1,10 +1,8 @@
 # vscode-textile
 
-[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
-[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-textile)](https://github.com/idleberg/vscode-textile/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.textile.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.textile)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-textile)](https://circleci.com/gh/idleberg/vscode-textile)
-[![David](https://flat.badgen.net/david/dev/idleberg/vscode-textile)](https://david-dm.org/idleberg/vscode-textile?type=dev)
+[![License](https://img.shields.io/github/license/idleberg/vscode-textile?color=blue&style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/github/v/release/idleberg/vscode-textile?style=for-the-badge)](https://github.com/idleberg/vscode-textile/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-textile/default.yml?style=for-the-badge)](https://github.com/idleberg/vscode-textile/actions)
 
 ## Installation
 
